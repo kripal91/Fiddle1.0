@@ -1,0 +1,13 @@
+.header{
+border-bottom: 1px solid #8142FF;
+line-height: 5px;
+padding-left: 25px;
+padding-top: 14px;
+padding-bottom: 6px;
+}
+.header>h2{
+    font-size: 25px;
+}
+.header>p{
+    font-weight: 500;
+}

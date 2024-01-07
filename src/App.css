@@ -1,0 +1,20 @@
+#root{
+    margin: 0 auto;
+    height: 100vh;
+    overflow: hidden;
+
+}
+.creatorForm{
+    width: 963px;
+   height: 688px;
+   border-radius: 10px;
+}
+.mainBody{
+    width: 637px;
+    height: 558px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #8142FF;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+    margin: 74px 179px 56px 147px;
+}
